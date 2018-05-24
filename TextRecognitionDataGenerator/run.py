@@ -44,7 +44,7 @@ def parse_arguments():
         type=int,
         nargs="?",
         help="The number of images to be created.",
-        default=1000
+        default=6000
     )
     parser.add_argument(
         "-n",
